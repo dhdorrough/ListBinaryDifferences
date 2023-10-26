@@ -1,0 +1,10 @@
+Source files copied to: C:\Temp\
+    Date/Time: 10/26/2023 2:17:53 PM
+
+Copied:           F:\NDAS-I\d7\Projects\ListBinaryDifferences\BinaryDiffsMain.pas
+Copied:           F:\NDAS-I\d7\Projects\ListBinaryDifferences\BinaryDiffsMain.dfm
+Copied:           F:\NDAS-I\d7\Projects\ListBinaryDifferences\ListBinaryDifferences.dpr
+Copied:           F:\NDAS-I\d7\Projects\MyUtils\MyUtils.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\SysTools\source\StBase.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\SysTools\source\StConst.pas
+Copied:           F:\NDAS-I\d7\Projects\TP\SysTools\source\StStrL.pas
